@@ -1,0 +1,1 @@
+# jekyll-sitemap-template
